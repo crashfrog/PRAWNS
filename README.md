@@ -19,6 +19,11 @@ PRAWNS provides a mechanism for large-scale association studies, including asses
 ## Dependencies
 1. Python 3.5 or later
 2. C++11 or later
+3. Numpy
+4. Pandas
+5. Matplotlib
+6. Scipy
+7. Scikit-learn
 
 ## Installation:
 ```bash
